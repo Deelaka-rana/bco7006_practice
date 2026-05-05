@@ -1,3 +1,3 @@
 # bco7006_practice
 
-**Basic** Practice walk through "Github"
+**Basic** Practice walk through `Github`
